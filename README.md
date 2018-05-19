@@ -51,11 +51,11 @@ Este proyecto es una variante de https://github.com/pablotoledo/CI-Service que e
 
 |Servicio|Ruta Host:Puerto|Docker Hostname|
 |--|--|--|
-|Portainer|http://localhost:9000/|portainer|
-|GitLab|http://localhost:8030/|gitlab|
-|Jenkins|http://localhost:8080/|jenkins|
-|Nexus|http://localhost:8081/nexus/|nexus|
-|SonarQube|http://localhost:8020/|sonarqube|
+|Portainer|http://localhost:9000/ |portainer|
+|GitLab|http://localhost:8030/ |gitlab|
+|Jenkins|http://localhost:8080/ |jenkins|
+|Nexus|http://localhost:8081/nexus/ |nexus|
+|SonarQube|http://localhost:8020/ |sonarqube|
 
 ## Usuarios y contraseñas
 Los usuarios siempre son de administración y puede ser: **root** ó **admin**
