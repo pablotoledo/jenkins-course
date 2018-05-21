@@ -22,6 +22,7 @@ Los pasos a ejecutar para configurar la máquina virtual en Virtualbox serían:
     - Version: Seleccionar "Ubuntu 64"
     - Memory size: **4096 MB como mínimo** siendo recomendable poner más memoria
     - Hard Disk: Seleccionar "Use an existing virtual hard disk file" y buscamos el fichero .vdi que se proporciona en el curso.
+- En el menú de configuración de la VM establecemos un mínimo de 2 vCPUs
 - Una vez creada la máquina virtual podremos iniciarla seleccionándola en VirtualBox y pulsando la opción de start.
 
 ## Datos adicionales de la VM
